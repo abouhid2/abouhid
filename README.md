@@ -5,9 +5,8 @@
 - 🔭 Working on software development since 2020.
 - 🌱 Mastered Ruby on Rails, JS and React.
 - 🔊 Very communicative and proactive, also C2 proficient in English certified by Cambridge University.
-- ⚡ Fun fact: the only things I like more than talking are playing/listening to music.
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=abouhid&show_icons=true&hide_border=true)
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=abouhid2&show_icons=true&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouhid&layout=compact&theme=vue" />
 
 ### Languages and Tools:
